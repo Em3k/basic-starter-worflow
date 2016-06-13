@@ -33,6 +33,7 @@ node_modules/
 bower_components/
 app/production
 app/development/assets/maps
+app/development/assets/images
 .sass-cache
 *.css.map
 # dist/
